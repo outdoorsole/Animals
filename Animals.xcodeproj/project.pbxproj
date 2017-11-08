@@ -12,6 +12,8 @@
 		160AFADB1FB2BC29008B19F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 160AFAD91FB2BC29008B19F5 /* Main.storyboard */; };
 		160AFADD1FB2BC29008B19F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 160AFADC1FB2BC29008B19F5 /* Assets.xcassets */; };
 		160AFAE01FB2BC29008B19F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 160AFADE1FB2BC29008B19F5 /* LaunchScreen.storyboard */; };
+		160AFAE81FB2BD4C008B19F5 /* SelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 160AFAE71FB2BD4C008B19F5 /* SelectViewController.swift */; };
+		160AFAEA1FB2BD89008B19F5 /* ZebraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 160AFAE91FB2BD89008B19F5 /* ZebraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		160AFADC1FB2BC29008B19F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		160AFADF1FB2BC29008B19F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		160AFAE11FB2BC29008B19F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		160AFAE71FB2BD4C008B19F5 /* SelectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectViewController.swift; sourceTree = "<group>"; };
+		160AFAE91FB2BD89008B19F5 /* ZebraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZebraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				160AFAD51FB2BC29008B19F5 /* AppDelegate.swift */,
 				160AFAD71FB2BC29008B19F5 /* ViewController.swift */,
 				160AFAD91FB2BC29008B19F5 /* Main.storyboard */,
+				160AFAE71FB2BD4C008B19F5 /* SelectViewController.swift */,
+				160AFAE91FB2BD89008B19F5 /* ZebraViewController.swift */,
 				160AFADC1FB2BC29008B19F5 /* Assets.xcassets */,
 				160AFADE1FB2BC29008B19F5 /* LaunchScreen.storyboard */,
 				160AFAE11FB2BC29008B19F5 /* Info.plist */,
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				160AFAD81FB2BC29008B19F5 /* ViewController.swift in Sources */,
+				160AFAE81FB2BD4C008B19F5 /* SelectViewController.swift in Sources */,
 				160AFAD61FB2BC29008B19F5 /* AppDelegate.swift in Sources */,
+				160AFAEA1FB2BD89008B19F5 /* ZebraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

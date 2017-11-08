@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SelectViewController.swift
 //  Animals
 //
 //  Created by Maribel Montejano on 11/7/17.
@@ -8,12 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class SelectViewController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    
 }
-
